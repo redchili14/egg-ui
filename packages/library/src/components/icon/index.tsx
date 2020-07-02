@@ -28,7 +28,7 @@ export default function EggIcon (prop : Props) {
     } = prop
 
     const classNameProps = classNames(
-        'egg-flexbox', 
+        'egg-icon', 
         className,
         {'eva-animation': animation},
         {'eva-infinite': typeof animation === "object" && animation.infinite},

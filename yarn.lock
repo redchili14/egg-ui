@@ -1467,13 +1467,6 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.1":
-  version "7.10.4"
-  resolved "https://registry.npm.taobao.org/@babel/runtime/download/@babel/runtime-7.10.4.tgz?cache=0&sync_timestamp=1593522736592&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40babel%2Fruntime%2Fdownload%2F%40babel%2Fruntime-7.10.4.tgz#a6724f1a6b8d2f6ea5236dbfe58c7d7ea9c5eb99"
-  integrity sha1-pnJPGmuNL26lI22/5Yx9fqnF65k=
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
 "@babel/template@^7.10.0", "@babel/template@^7.8.3", "@babel/template@^7.8.6":
   version "7.10.0"
   resolved "https://registry.npm.taobao.org/@babel/template/download/@babel/template-7.10.0.tgz#f15d852ce16cd5fb3e219097a75f662710b249b1"
@@ -3800,16 +3793,6 @@ alphanum-sort@^1.0.0:
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
 
-anna-remax-ui@^1.7.1:
-  version "1.7.1"
-  resolved "https://registry.npm.taobao.org/anna-remax-ui/download/anna-remax-ui-1.7.1.tgz#df324e5e25cd3b15655498efc711ed5acb1f8eb9"
-  integrity sha1-3zJOXiXNOxVlVJjvxxHtWssfjrk=
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    classnames "^2.2.6"
-    dayjs "^1.8.23"
-    lodash-es "^4.17.15"
-
 anser@1.4.9:
   version "1.4.9"
   resolved "https://registry.yarnpkg.com/anser/-/anser-1.4.9.tgz#1f85423a5dcf8da4631a341665ff675b96845760"
@@ -4289,14 +4272,6 @@ babel-plugin-extract-import-names@^1.6.5:
   integrity sha512-rrNoCZ1DHMdy3vuihvkuO2AjE2DVFrI78e61W7eVsgpNTbG0KO1UESQwXMTlS3v1PMnlEJjdvoteRAkatEkWFQ==
   dependencies:
     "@babel/helper-plugin-utils" "7.8.3"
-
-babel-plugin-import@^1.13.0:
-  version "1.13.0"
-  resolved "https://registry.npm.taobao.org/babel-plugin-import/download/babel-plugin-import-1.13.0.tgz?cache=0&sync_timestamp=1574676283725&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fbabel-plugin-import%2Fdownload%2Fbabel-plugin-import-1.13.0.tgz#c532fd533df9db53b47d4d4db3676090fc5c07a5"
-  integrity sha1-xTL9Uz3521O0fU1Ns2dgkPxcB6U=
-  dependencies:
-    "@babel/helper-module-imports" "^7.0.0"
-    "@babel/runtime" "^7.0.0"
 
 babel-plugin-macros@^2.0.0, babel-plugin-macros@^2.8.0:
   version "2.8.0"
@@ -6004,11 +5979,6 @@ dateformat@^3.0.0:
   version "3.0.3"
   resolved "https://registry.npm.taobao.org/dateformat/download/dateformat-3.0.3.tgz#a6e37499a4d9a9cf85ef5872044d62901c9889ae"
   integrity sha1-puN0maTZqc+F71hyBE1ikByYia4=
-
-dayjs@^1.8.23:
-  version "1.8.28"
-  resolved "https://registry.npm.taobao.org/dayjs/download/dayjs-1.8.28.tgz#37aa6201df483d089645cb6c8f6cef6f0c4dbc07"
-  integrity sha1-N6piAd9IPQiWRctsj2zvbwxNvAc=
 
 debounce@^1.2.0:
   version "1.2.0"
@@ -9445,11 +9415,6 @@ locate-path@^5.0.0:
   integrity sha1-Gvujlq/WdqbUJQTQpno6frn2KqA=
   dependencies:
     p-locate "^4.1.0"
-
-lodash-es@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash-es/download/lodash-es-4.17.15.tgz#21bd96839354412f23d7a10340e5eac6ee455d78"
-  integrity sha1-Ib2Wg5NUQS8j16EDQOXqxu5FXXg=
 
 lodash._reinterpolate@^3.0.0:
   version "3.0.0"
