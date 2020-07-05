@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { EggPopup } from "@redchili/egg-ui"
 import { View, Button } from "remax/one"
-
+import './index.css'
 
 export default function Popup() {
     const [isOpened, setIsOpened] = useState(false)

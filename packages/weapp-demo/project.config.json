@@ -1,5 +1,6 @@
 {
 	"miniprogramRoot": "dist/",
+	"appid": "wx15c0c6654f9cfbea",
 	"setting": {
 		"urlCheck": false,
 		"es6": false,

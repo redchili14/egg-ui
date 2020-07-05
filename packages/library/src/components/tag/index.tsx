@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import classNames from "classnames"
 import { View } from "remax/one"
-import './index.css'
+// import './index.css'
 
 interface Props {
     className?: string

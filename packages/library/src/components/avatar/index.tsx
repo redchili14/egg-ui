@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, Image } from 'remax/one'
 import classNames from 'classnames';
-import './index.css'
+// import './index.css'
 
 interface Props {
     size?: 'large' | 'normal' | 'small'

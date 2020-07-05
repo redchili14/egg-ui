@@ -1,3 +1,4 @@
+@import '~@redchili/egg-ui/dist/style/components/flex/index.css';
 .title {
     font-size: 36px;
     font-weight: 500;

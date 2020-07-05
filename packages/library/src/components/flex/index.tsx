@@ -2,7 +2,7 @@ import React from 'react'
 import { View } from 'remax/one'
 import classNames from 'classnames';
 import { FlexPropsType } from './PropsType';
-import './index.css'
+// import './index.css'
 
 interface Props extends FlexPropsType {
     customizeStyle?: React.CSSProperties

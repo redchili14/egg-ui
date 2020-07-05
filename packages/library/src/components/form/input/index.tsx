@@ -1,7 +1,7 @@
 import React from 'react';
 import { Input, InputProps, View, Label } from 'remax/one';
 import classNames from 'classnames'
-import './index.css';
+// import './index.css';
 interface Props extends InputProps {
     name: string;
     className?: string;

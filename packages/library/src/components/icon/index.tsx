@@ -5,7 +5,7 @@ import classNames from 'classnames';
 import * as eva from 'eva-icons';
 import { EvaFillSvgType, EvaOutLineSvgType } from './types'
 import hexToRgb from './hexToRgb'
-import './index.css'
+// import './index.css'
 
 type animationType = 'zoom' | 'pulse' | 'shake' | 'flip'
 

@@ -4,7 +4,7 @@ import classNames from "classnames"
 import EggModalHeader from "./header"
 import EggModalContent from "./content"
 import EggModalAction from "./action"
-import './index.css'
+// import './index.css'
 
 interface Props {
 	isOpened: boolean

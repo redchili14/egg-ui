@@ -1,3 +1,4 @@
+@import '~@redchili/egg-ui/dist/style/components/form/input/index.css';
 .input_demo {
     width: 690px;
     margin: 20px auto;

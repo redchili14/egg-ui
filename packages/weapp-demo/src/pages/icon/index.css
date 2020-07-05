@@ -1,3 +1,5 @@
+@import '~@redchili/egg-ui/dist/style/components/icon/index.css';
+
 .icon-demo {
     width: 690px;
     margin: 40px auto;

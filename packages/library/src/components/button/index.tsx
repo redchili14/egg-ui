@@ -3,7 +3,7 @@ import { Button } from 'remax/one';
 
 import classNames from 'classnames';
 
-import './index.css';
+// import './index.css';
 
 export type ButtonSize = 'large' | "medium" | "small";
 

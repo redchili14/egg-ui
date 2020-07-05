@@ -1,3 +1,4 @@
+@import '~@redchili/egg-ui/dist/style/components/modal/index.css';
 .modal_demo {
     width: 690px;
     margin: 40px auto;

@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Button } from 'remax/one';
 import { FormContext } from '../context';
-import './index.css';
+// import './index.css';
 
 interface Props {
     className?: string;

@@ -1,3 +1,5 @@
+@import '~@redchili/egg-ui/dist/style/components/tag/index.css';
+
 .avatar-demo {
     width: 690px;
     margin: 40px auto;

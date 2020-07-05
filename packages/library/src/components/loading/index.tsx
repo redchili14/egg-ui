@@ -4,8 +4,8 @@ import classNames from 'classnames'
 import BallSpin from './ball-spin'
 import LineSpin from './line-spin'
 
-import "./min.css"
-import "./index.css"
+// import "./min.css"
+// import "./index.css"
 
 
 interface Props {

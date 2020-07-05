@@ -1,7 +1,7 @@
 import React from "react"
 import { View, RadioGroupProps, RadioGroup } from "remax/wechat";
-import classNames from "classnames"
-import './index.css'
+// import classNames from "classnames"
+// import './index.css'
 
 interface Props extends RadioGroupProps {
     
