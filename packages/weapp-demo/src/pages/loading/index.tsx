@@ -6,9 +6,12 @@ import './index.css'
 export default function Tag() {
 
     return (
-        <View style={{ backgroundColor: '#1890ff' }}>
-            <EggLoading type="box" loadingText='ddd'>
-                <View style={{ width: '200px', height: '200px'}}>内容内容</View>
+        <View>
+            <EggLoading loading={false} type="box">
+                <View  style={{ width: '400px', height: '400px', backgroundColor: '#FFCF5C'}}>内容内容</View>
+            </EggLoading>
+            <EggLoading loading type="box">
+                <View  style={{ width: '400px', height: '400px', backgroundColor: '#0084F4'}}>内容内容</View>
             </EggLoading>
             {/* <EggLoading type="circle" /> */}
         </View>

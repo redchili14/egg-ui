@@ -7,11 +7,6 @@ NOTICE: 完成期限 6月24日
 - [x] Button (Ben)
 - [x] Icon(Pluto)
 
-> 布局
-
-- [ ] Flex
-- [ ] FlexSpace
-
 > 视图组件
 
 - [x] Avatar 头像 (Pluto)

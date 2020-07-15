@@ -71,6 +71,16 @@
     border-radius: 3px;
 }
 
+.hidden-loading {
+    display: none;
+}
+.show-loading {
+    display: block;
+}
+.hidden {
+    opacity: 1;
+}
+
 @keyframes animate {
     17% {
         border-bottom-right-radius: 3px;

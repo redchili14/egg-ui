@@ -10,20 +10,23 @@ import "./index.css"
 
 interface Props {
     type: 'box' | 'circle'
+    loading: boolean
     loadingText?: string
 }
 
 
 export default function EggLoading(props: React.PropsWithChildren<Props>) {
-    const { type, loadingText } = props;
+    const { type, loadingText, loading } = props;
 
     const typeClassNames = classNames(
-        { [`${type}-loading`]: type }
+        { [`${type}-loading`]: type },
     )
 
     const propsIconClassName = classNames(
         'loading--icon',
-        {'loading--show-text': Boolean(loadingText)}
+        { 'loading--show-text': Boolean(loadingText) },
+        { 'show-loading': loading },
+        { 'hidden-loading': !loading },
     )
 
     return (
@@ -42,7 +45,7 @@ export default function EggLoading(props: React.PropsWithChildren<Props>) {
                     }
                 </View>
                 {props.children ? (
-                    <View className="loading-children">
+                    <View className={`loading-children ${loading ? 'show' : 'hidden'}`}>
                         {props.children}
                     </View>
                 ) : ''}
