@@ -8,7 +8,7 @@
 
 | 属性 | 说明 | 类型 | 默认值 |
 | --- | --- | ---- | --- |
-| className | 设置类名 | `boolean` | `false` |
+| className | 设置类名 | `string` | `-` |
 | name | name | `string` | - |
 | title | 左边标题 | `string` | - |
 | type | 类型 | `"number" | "text"` | - |
