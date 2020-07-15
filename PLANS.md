@@ -7,11 +7,6 @@ NOTICE: 完成期限 6月24日
 - [x] Button (Ben)
 - [x] Icon(Pluto)
 
-> 布局
-
-- [ ] Flex
-- [ ] FlexSpace
-
 > 视图组件
 
 - [x] Avatar 头像 (Pluto)
@@ -21,7 +16,7 @@ NOTICE: 完成期限 6月24日
 
 - [x] Modal 对话框(Pluto)
 - [x] Popup 弹窗 (Pluto)
-- [ ] Loading 加载中
+- [x] Loading 加载中
 - [ ] Notification 通知提醒框
 
 > 数据录入
